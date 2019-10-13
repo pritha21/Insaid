@@ -30,3 +30,5 @@ The pathologist checks the nodes under a microscope. Nearly one-third of women w
 #### https://www.medicalnewstoday.com/articles/319713.php
 
 #### https://ww5.komen.org/BreastCancer/LymphNodeStatus.html
+
+[>>> Access Python code here](https://colab.research.google.com/gist/pritha21/a90b3da8df77642d3cc55b60f80fd208/breast_cancer_survival.ipynb)
